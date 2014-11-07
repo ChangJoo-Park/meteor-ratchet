@@ -1,8 +1,8 @@
 Package.describe({
   name: 'pcjpcj2:ratchet',
-  summary: ' /* Fill me in! */ ',
+  summary: ' Ratchet UI Framework for Meteor',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/pcjpcj2/meteor-ratchet'
 });
 
 Package.onUse(function(api) {
