@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Ratchicons';
+  src: url('/packages/pcjpcj2_ratchet/ratchet-2.0.2/fonts/ratchicons.eot');
+  src: url('/packages/pcjpcj2_ratchet/ratchet-2.0.2/fonts/ratchicons.eot?#iefix') format('embedded-opentype'), url('/packages/pcjpcj2_ratchet/ratchet-2.0.2/fonts/ratchicons.woff') format('woff'), url('/packages/pcjpcj2_ratchet/ratchet-2.0.2/fonts/ratchicons.ttf') format('truetype'), url('/packages/pcjpcj2_ratchet/ratchet-2.0.2/fonts/ratchicons.svg#svgFontName') format('svg');
+}
